@@ -1,18 +1,10 @@
-
-#!/bin/bash
-
 echo "Hello EMC Students, welcome to the world of CI/CD"
-
-echo "--------------------------------"
 
 echo "Build Started Successfully"
 
 echo "Current Date and Time:"
-date
 
-echo "System Information:"
-uname -a
-
-echo "--------------------------------"
+cmd.exe /c "date /t"
+cmd.exe /c "time /t"
 
 echo "Build completed successfully!"
