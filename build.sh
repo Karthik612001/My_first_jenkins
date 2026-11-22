@@ -3,12 +3,16 @@
 
 echo "Hello EMC Students, welcome to the world of CI/CD"
 
-echo "Build Started"
+echo "--------------------------------"
 
+echo "Build Started Successfully"
+
+echo "Current Date and Time:"
 date
 
-echo "System Information"
-
+echo "System Information:"
 uname -a
+
+echo "--------------------------------"
 
 echo "Build completed successfully!"
