@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hello EMC Students, welcome to the world of CI/CD"
 
 echo "Build Started Successfully"
